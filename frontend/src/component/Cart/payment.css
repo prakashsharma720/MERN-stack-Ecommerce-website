@@ -1,0 +1,13 @@
+
+
+.paymentFormBtn{
+    background-color: tomato;
+    color: white;
+    width: 20%;
+    padding: 1vmax;
+    border: none;
+    margin: auto;
+    cursor: pointer;
+    transition: 0.5s;
+    font: 400 1vmax "Roboto";
+}
